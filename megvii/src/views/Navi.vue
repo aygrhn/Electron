@@ -1,16 +1,12 @@
 <template>
-  <div class="div">
-      this is navi
-  </div>
+  <div class="div">this is navi</div>
 </template>
 
 <script>
 export default {
-    name:"Navi",
-    
-}
+  name: "Navi",
+};
 </script>
 
 <style>
-
 </style>
